@@ -159,7 +159,7 @@
 
 ## 📁 GitHub 제출 방식
 
-본 스터디는 **GitHub Pull Request 기반**으로 인증을 진행합니다.
+본 스터디는 **GitHub Pull Request 기반**으로 인증을 진행합니다. (본 repo의 main 브랜치로 PR 해주세요.)
 
 ### 디렉토리 구조 예시
 
@@ -177,18 +177,6 @@
 └── live-coding-test
     ├── week02
     └── week04
-```
-
-### 브랜치명
-
-```text
-week{주차}/{영문이름}
-```
-
-예시:
-
-```text
-week01/minsub
 ```
 
 ### 파일 위치
